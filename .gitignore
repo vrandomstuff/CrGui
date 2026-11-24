@@ -1,0 +1,20 @@
+# Build output
+/build/
+
+# Compiled objects, libraries and executables
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.dll.a
+*.exe
+*.pdb
+*.ilk
+
+# Editor and backup files
+*.swp
+*.swo
+*~
+\#*\#
+.\#*\#
